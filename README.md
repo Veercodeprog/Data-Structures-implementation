@@ -22,7 +22,7 @@ like to add a problem for linked-list topic,you can add a file in linked-list fo
 
 step 3 - Create a pull request and merge.
 
-Coding Discussion [coding problem] (https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion)
+Coding Discussion 
 -----------------
 
 You can take part in ongoing [coding problem] (https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion)
