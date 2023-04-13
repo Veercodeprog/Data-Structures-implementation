@@ -26,7 +26,7 @@ Coding Discussion -
 ----------------- 
 [Coding -problems](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion-share-your-solution-with-best-time-complexity-approach)              
 
-You can take part in ongoing [coding problem] (https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion-share-your-solution-with-best-time-complexity-approach)
+You can take part in ongoing [coding problem](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion-share-your-solution-with-best-time-complexity-approach)
 where there will a problem of the dat posted ,and the first answer with best time complexity will be marked as answer.
 
 [Best Repos] -  [Repos](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos)
@@ -34,7 +34,7 @@ where there will a problem of the dat posted ,and the first answer with best tim
 
 You can promote your Github repo or projects that can help others in any way possible by-
 
-sharing your projects under [Best Repos] (https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos) thread 
+sharing your projects under [Best Repos](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos) thread 
 
 
 
