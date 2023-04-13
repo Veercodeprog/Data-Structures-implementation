@@ -22,14 +22,14 @@ like to add a problem for linked-list topic,you can add a file in linked-list fo
 
 step 3 - Create a pull request and merge.
 
-Coding Discussion 
+Coding Discussion - [Coding -problems](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/new?category=coding-discussion)
 -----------------
 
 You can take part in ongoing [coding problem] (https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion)
 where there will a problem of the dat posted ,and the first answer with best time complexity will be marked as answer.
 
-[Best Repos] (https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos)
------------------
+[Best Repos] -  [Repos](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos)
+------------
 
 You can promote your Github repo or projects that can help others in any way possible by-
 
