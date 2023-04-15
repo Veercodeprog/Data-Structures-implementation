@@ -1,21 +1,24 @@
-let arr = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
-];
-for (let i = 0; i < arr.length; i++) {
-    let row = i;
-    let column = arr[i].length - i - 1;
-    for (let j = arr[i].length - i - 1; j >= 0; j--) {
-        let t = arr[i][j];
-        arr[i][j] = arr[row][column];
-        arr[row][column] = t;
-        row++;
+
+function rot(matrix) {
+    const numRows = matrix.length;
+    const numCols = matrix[0].length;
+    const result = new Array(numCols).fill().map(() => new Array(numRows).fill(0));
+    for (let i = 0; i < numCols; i++) {
+
+
+        for (let j = 0; j < numRows; j++) {
+            result[i][j] = matrix[j][numCols - 1 - i];
+
+        }
     }
+
+    return result;
 }
 
-console.log(arr);
-for (let i = 0; i < arr.length; i++) {
-    arr[i].reverse();
-}
-console.log(arr);
+let a = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [10, 11, 12]
+];
+console.log(rot(a));
