@@ -1,43 +1,25 @@
-Coding Problems
-=====================
+# Daily Coding Problems
 
-Description
------------
+Welcome to Daily Coding Problems, a repository dedicated to challenging coding problems and fostering discussions on various approaches and solutions. Join us on this coding adventure where we strive to enhance our problem-solving skills and share knowledge with fellow programmers.
 
-This project is dedicated to coding problems and discussions on how to approach it and  the best way to solve it.
+## Contribution
 
-Contribution - [Discussion](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/contribute)
-------------
+To contribute and become a collaborator, follow these steps:
 
-To become a collaborator, you must be a collaborator.
-You can simply -
+1. **Add Your Name**: Join the [Contribute Discussion](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/contribute) and add your name to the list of contributors. We value your participation!
 
-Add your name in Contribute [Discussion](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/contribute)
-or you can fork the repo ,add changes to your repo and open pull requests.
+2. **Fork, Modify, and Open Pull Requests**: Fork this repository, make changes in your forked repository, and open pull requests to propose your modifications.
 
-Step 1 - In the ***Add-problem*** branch ,add your files on clicking edit directly .or you can fork your and send pr's.
+   - Step 1: Create a new branch named "Add-problem" and add your files directly by clicking the edit button or fork the repository and make changes in your forked repository.
+   - Step 2: In the "Add-problem" branch, create a file with a descriptive problem statement as comments at the top and provide your solution in your preferred programming language. Place the file in the relevant topic folder (e.g., "linked-list" for linked list problems).
+   - Step 3: Create a pull request and wait for it to be reviewed and merged.
 
-Step 2 - In the ***Add-problem*** ,you can add your own file with coding-problem with statement on top as comments and solution in preferred language under the relevant folders.
-like to add a problem for linked-list topic,you can add a file in linked-list folder.
+## Coding Discussions
 
-step 3 - Create a pull request and merge.
+Engage in lively discussions on coding problems in the [Coding Discussion](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion-share-your-solution-with-best-time-complexity-approach) section. Participate in ongoing discussions, share your solutions, and explore efficient time complexities. A daily problem will be posted, and the solution with the best time complexity submitted first will be selected as the accepted solution.
 
-Coding Discussion - 
------------------ 
-[Coding -problems](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion-share-your-solution-with-best-time-complexity-approach)              
+## Best Repositories
 
-You can take part in ongoing [coding problem](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/coding-discussion-share-your-solution-with-best-time-complexity-approach) discussion.
+Do you have an outstanding GitHub repository or project that can benefit others? Promote it under the [Best Repos](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos) thread. Share your projects and help others with their coding endeavors.
 
-A daily problem will be posted, and the answer with the most efficient time complexity submitted first will be selected as the accepted solution.
-
-
-[Best Repos] -  [Repos](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos)
-------------
-
-You can promote your Github repo or projects that can help others in any way possible by-
-
-sharing your projects under [Best Repos](https://github.com/Veercodeprog/Data-Structures-implementation/discussions/categories/best-repos) thread 
-
-
-
-
+Join us, contribute your expertise, and learn from the collective wisdom of the community. Let's embark on this coding journey together, pushing our limits and growing as developers!
