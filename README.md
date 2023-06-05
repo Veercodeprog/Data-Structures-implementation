@@ -1,3 +1,12 @@
+## Guidelines
+
+Please keep the following guidelines in mind when contributing:
+
+- Only coding problems that are qualified to be asked in good interviews will be added. We aim to select problems that demonstrate important concepts and techniques in DSA (Data Structures and Algorithms).
+- Problems based on repetitive or trivial ideas may not be added to keep the list concise and focused on important topics.
+- Our goal is to create a small yet comprehensive collection of problems that can help you qualify for coding exams and improve your competitive programming skills.
+- If there is an existing pseudocode file for an algorithm, consider improving or optimizing it instead of creating a new one.
+
 # Daily Coding Problems
 
 Welcome to Daily Coding Problems, a repository dedicated to challenging coding problems and fostering discussions on various approaches and solutions. Join us on this coding adventure where we strive to enhance our problem-solving skills and share knowledge with fellow programmers.
